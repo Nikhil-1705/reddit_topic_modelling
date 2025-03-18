@@ -61,3 +61,5 @@ This project is licensed under the **MIT License**. 🔓
 ---
 📩 **Developed by [Nikhil Bhandari](https://github.com/Nikhil-1705)** | 
 
+![newplot](https://github.com/user-attachments/assets/c4d4d894-e5ed-4e00-98d7-a5ab7af56841)
+
