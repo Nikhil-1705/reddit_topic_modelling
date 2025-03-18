@@ -1,0 +1,9 @@
+pandas 
+bertopic 
+praw
+numpy
+nltk
+matplotlib
+dash 
+plotly 
+wordcloud 
