@@ -1,12 +1,12 @@
 # 📌 Reddit Topic Modelling
 
 ## 📖 Overview
-This project performs **topic modeling** on Reddit posts using **Natural Language Processing (NLP)** techniques. It retrieves and processes data from Reddit, applies topic modeling algorithms, and visualizes key topics discussed within a subreddit. 🚀
+This project performs **topic modeling** on Reddit posts using **BERTopic**. It retrieves and processes data from Reddit, applies topic modeling, and visualizes key topics discussed within a subreddit. 🚀
 
 ## 🔧 Features
 - ✅ **Data Retrieval**: Extracts posts and comments from Reddit 📥
 - ✅ **Text Preprocessing**: Cleans and prepares text for analysis 🛠️
-- ✅ **Topic Modelling**: Uses LDA (Latent Dirichlet Allocation) to identify key discussion topics 🎯
+- ✅ **Topic Modelling**: Uses BERTopic to identify key discussion topics 🎯
 - ✅ **Visualization**: Generates insightful visual representations of the extracted topics 📊
 
 ## 📂 Project Structure
