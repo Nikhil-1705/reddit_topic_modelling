@@ -8,6 +8,8 @@ This project performs **topic modeling** on Reddit posts using **BERTopic**. It 
 - ✅ **Text Preprocessing**: Cleans and prepares text for analysis 🛠️
 - ✅ **Topic Modelling**: Uses BERTopic to identify key discussion topics 🎯
 - ✅ **Visualization**: Generates insightful visual representations of the extracted topics 📊
+- ✅ **Labelling Docs**: Generates a well labelled Json file for your Docs file, segerating each document by topic into a different group (example at the end)
+
 
 ## 📂 Project Structure
 ```
