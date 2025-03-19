@@ -64,6 +64,7 @@ This project is licensed under the **MIT License**. 🔓
 ![newplot](https://github.com/user-attachments/assets/c4d4d894-e5ed-4e00-98d7-a5ab7af56841)
 ![newplot1](https://github.com/user-attachments/assets/8d2e21d1-b382-46f2-b86a-98b63b5dac1d)
 ![newplot](https://github.com/user-attachments/assets/bdef4889-c877-4bcb-87bc-074b59c284a6)
+![image](https://github.com/user-attachments/assets/4df28ce8-ea57-465c-940f-fb0c6f88ffdf)
 
 
 
